@@ -1,4 +1,4 @@
-package com.padcmyanmar.padc_3_f_mm_news;
+package com.padcmyanmar.news;
 
 import org.junit.Test;
 
